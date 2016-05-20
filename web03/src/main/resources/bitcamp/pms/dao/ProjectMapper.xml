@@ -44,3 +44,15 @@
     where PNO=#{no}
   </select>
 </mapper>
+
+
+
+
+
+
+
+
+
+
+
+
